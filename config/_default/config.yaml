@@ -2,7 +2,7 @@
 # Guide: https://wowchemy.com/docs/getting-started/
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-
+i_am_a_sponsor: true
 title: Apprendre le Russe facilement avec Anastasiya Shabliova # Website name
 baseurl: 'https://www.apprendre-le-russe.net/' # Website URL
 copyright: '© {year} www.apprendre-le-russe.net | Tous droits réservés. Anastasiya Shabliova.' # Footer text, e.g. '© {year} Me'
