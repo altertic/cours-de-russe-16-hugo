@@ -5,6 +5,8 @@
 
 # Appearance
 
+i_am_a_sponsor: true
+
 theme: custom
 day_night: false
 font: ''
@@ -13,20 +15,20 @@ font_size: L
 # SEO
 
 site_type: Organization
-local_business_type: ''
-org_name: ''
-description: ''
+local_business_type: 'ProfessionalService'
+org_name: 'SHABLIOVA GIRE ANASTASIYA'
+description: 'https://www.apprendre-le-russe.net/'
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
+email: nastiya@apprendre-le-russe.net
 appointment_url: 'https://calendly.com'
 contact_links:
   - icon: comments
     icon_pack: fas
-    name: Discuss on the forum
-    link: 'https://github.com/wowchemy/wowchemy-hugo-modules/discussions'
+    name: Contacter Anastasiya
+    link: 'Apprendre le Russe avec Anastasiya GIRE SHABLIOVA, une enseignante native (Biélorusse), en cours particulier ou collectif, à distance ou en présentiel (en Charente - 16, secteur d''Angoulême).'
 
 # Site header
 
@@ -41,9 +43,9 @@ main_menu:
 
 # Localization
 
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
-address_format: en-us
+date_format: '02 Jan 2006'
+time_format: '15:04'
+address_format: fr-fr
 
 # Site features
 
