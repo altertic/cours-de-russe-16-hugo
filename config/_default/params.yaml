@@ -17,7 +17,7 @@ font_size: L
 site_type: Organization
 local_business_type: 'ProfessionalService'
 org_name: 'SHABLIOVA GIRE ANASTASIYA'
-description: 'https://www.apprendre-le-russe.net/'
+description: 'Apprendre le Russe avec Anastasiya GIRE SHABLIOVA, une enseignante native (Biélorusse), en cours particulier ou collectif, à distance ou en présentiel (en Charente - 16, secteur d''Angoulême).'
 twitter: ''
 
 # Contact (edit or remove options as required)
@@ -28,7 +28,7 @@ contact_links:
   - icon: comments
     icon_pack: fas
     name: Contacter Anastasiya
-    link: 'Apprendre le Russe avec Anastasiya GIRE SHABLIOVA, une enseignante native (Biélorusse), en cours particulier ou collectif, à distance ou en présentiel (en Charente - 16, secteur d''Angoulême).'
+    link: 'https://www.apprendre-le-russe.net'
 
 # Site header
 
