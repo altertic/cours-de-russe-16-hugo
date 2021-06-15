@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 i_am_a_sponsor: true
-title: Apprendre le Russe facilement avec Anastasiya Shabliova # Website name
+title: RussÉmoi # Website name
 baseurl: 'https://www.apprendre-le-russe.net/' # Website URL
 copyright: '© {year} www.apprendre-le-russe.net par Anastasiya Shabliova | Tous droits réservés.' # Footer text, e.g. '© {year} Me'
 
