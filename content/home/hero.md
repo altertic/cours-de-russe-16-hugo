@@ -4,7 +4,7 @@ cta_note:
 advanced:
   css_class: fullscreen
 widget: hero
-active: false
+active: true
 cta:
   url: course/
   label: Explore our courses
