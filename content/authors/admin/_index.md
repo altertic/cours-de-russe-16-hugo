@@ -4,19 +4,20 @@ bio: Originaire de Biélorussie où j'ai exercé le métier de journaliste, je v
   en France depuis près de 15 ans et donne des cours de russe tous niveaux,
   particuliers ou collectifs, en ligne ou en présentiel à Angoulême.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Littérature
+  - Cinéma
+  - Art
+  - Histoire
+  - Langues
+  - Cultures
+  - Civilisations
+  - Théatre
+  - Poésie
+  - Nature
 social:
   - icon: envelope
     icon_pack: fas
     link: mailto:test@example.org
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
 organizations:
   - name: Stanford University
     url: ""
