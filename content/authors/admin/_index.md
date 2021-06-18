@@ -18,6 +18,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:test@example.org
+    label: Contact par email
 organizations:
   - name: Stanford University
     url: ""
