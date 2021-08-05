@@ -21,8 +21,8 @@ cta_alt:
 design:
   background:
     gradient_angle: 0
-    gradient_start: rgb(168,218,220)
-    gradient_end: rgb(69,123,157)
+    gradient_start: "#f1faee"
+    gradient_end: "#ffffff"
     text_color_light: false
 hero_media: student.svg
 ---
@@ -34,12 +34,12 @@ Je m'appelle Anastasia, je vis en France depuis bientôt 15 ans mais suis origin
 
 *RussÉmoi* c'est à la fois le nom de mon site, mais aussi de ma méthode à travers laquelle je vous propose d'apprendre la langue russe appliquée à votre objectif :
 
-- facilement
-- efficacement
-- en y prenant plaisir
-- à votre rythme
-- en vous cultivant
-- et même, parfois, en vous amusant !
+* facilement
+* efficacement
+* en y prenant plaisir
+* à votre rythme
+* en vous cultivant
+* et même, parfois, en vous amusant !
 
 ## Un apprentissage du russe appliqué à votre objectif
 
@@ -59,4 +59,3 @@ C'est tout à fait normal et c'est même, très souvent, un facteur de démotiva
 Cela est d'autant plus dommage que nous avons pourtant, à portée de main, un puissant facilitateur pour l'apprentissage d'une langue étrangère : vos motivations !
 
 De plus, quel que soit votre niveau, que vous soyez débutant ou confirmé, je vous propose des cours particuliers ou collectifs, en ligne ou en présentiel à Angoulême en Charente.
-
