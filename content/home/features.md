@@ -2,19 +2,21 @@
 widget: featurette
 headless: true
 weight: 20
-title: Features
-subtitle: ✨ Teach _anything_ with
+title: Les différents formats de cours proposés
+subtitle: ✨ Prenez plaisir à apprendre la langue russe
 feature:
   - icon: chalkboard-teacher
     icon_pack: fas
     name: Slides
-    description: 
+    description: null
   - icon: video
     icon_pack: fas
     name: Video
-    description: 
+    description: null
   - icon: code
     icon_pack: fas
     name: Math & Code
-    description: 
+    description: null
+widget_id: types-de-cours
+active: true
 ---
